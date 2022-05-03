@@ -1,9 +1,5 @@
 # Pokedex
 
-<h1 align="center">
-    Pokedex
-</h1>
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-nascimento-andrade-34574398/">
@@ -38,13 +34,13 @@ Este projeto consiste em criar uma pokedex consumindo uma <a href="https://pokea
 
 ```bash
 # Instale as dependências
-$ yarn
+$ npm install
 
 # Execute a Aplicação
-$ yarn start
+$ npm start
 
 # O servidor iniciara na porta:3000 - acesse http://localhost:3000
 ```
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT. Veja a <a href="https://opensource.org/licenses/MIT">licença</a> para saber mais.
+Este projeto esta sobe a licença MIT. Veja a <a href="https://opensource.org/licenses/MIT">licença MIT</a> para saber mais.
