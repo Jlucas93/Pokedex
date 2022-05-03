@@ -1,7 +1,5 @@
 # Pokedex
 
-<p align="center">
-
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-nascimento-andrade-34574398/">
     <img alt="Made by J. Lucas" src="https://img.shields.io/badge/made%20by-Jo%C3%A3o%20Lucas-blue">
 </a>
@@ -11,12 +9,6 @@
 <a href="https://reactjs.org/">
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
 </a>
-
-</p>
-
-<h2 align="center">
-  Bem Vindo a Pokedex
-</h2>
 
 ## Sobre o Projeto
 
