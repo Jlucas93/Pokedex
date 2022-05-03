@@ -6,9 +6,6 @@
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
-<a href="https://reactjs.org/">
-  <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
-</a>
 
 ## Sobre o Projeto
 
