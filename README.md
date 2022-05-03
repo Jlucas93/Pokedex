@@ -1,11 +1,13 @@
 # Pokedex
 
+<p align= center>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-nascimento-andrade-34574398/">
     <img alt="Made by J. Lucas" src="https://img.shields.io/badge/made%20by-Jo%C3%A3o%20Lucas-blue">
 </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
+</p>
 
 ## Sobre o Projeto
 
