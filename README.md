@@ -47,4 +47,4 @@ $ yarn start
 ```
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
+Este projeto esta sobe a licença MIT. Veja a <a href="https://opensource.org/licenses/MIT">licença</a> para saber mais.
