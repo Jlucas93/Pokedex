@@ -8,27 +8,29 @@
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
-</p>
-
-<p align="center">
-
 <a href="https://reactjs.org/">
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
 </a>
 
 </p>
+
 <h2 align="center">
   Bem Vindo a Pokedex
 </h2>
 
 ## Sobre o Projeto
 
-Este projeto consiste em criar uma pokedex consumindo uma <a href="https://pokeapi.co/">API do pokemon/</a>, a ideia é fazer uma busca do pokemon e retornar os status e foto do pokemon desejado. Em construção.
+Este projeto consiste em criar uma pokedex consumindo uma <a href="https://pokeapi.co/">PokeAPI</a>, a ideia é fazer uma busca do pokemon e retornar os status e foto do pokemon desejado. Em construção.
 
 ## Tecnologias:
 
-- [ReactJs][reactjs]
-- [Axios][axios]
+- <a href="https://reactjs.org/">
+  <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
+</a>
+- <a href="https://axios-http.com/ptbr/docs/intro">
+  <img alt="ReactJS" src="https://img.shields.io/badge/-Axios-blue">
+</a>
+
 
 ### Rodando a aplicação web
 
