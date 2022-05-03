@@ -27,8 +27,9 @@ Este projeto consiste em criar uma pokedex consumindo uma <a href="https://pokea
 - <a href="https://reactjs.org/">
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
 </a>
+
 - <a href="https://axios-http.com/ptbr/docs/intro">
-  <img alt="ReactJS" src="https://img.shields.io/badge/-Axios-blue">
+  <img alt="Axios" src="https://img.shields.io/badge/Using-Axios-blue">
 </a>
 
 
