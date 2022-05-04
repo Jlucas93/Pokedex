@@ -1,7 +1,7 @@
 # Pokedex
 ## Sobre o Projeto
 
-Este projeto consiste em criar uma pokedex consumindo uma <a href="https://pokeapi.co/">PokeAPI</a>, a ideia é fazer uma busca do pokemon e retornar os status e foto do pokemon desejado. Em construção.
+Este projeto consiste em criar uma pokedex consumindo uma <a href="https://pokeapi.co/">PokeAPI</a>, a ideia é fazer uma busca do pokemon e retornar os status e foto do pokemon desejado.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-nascimento-andrade-34574398/">
