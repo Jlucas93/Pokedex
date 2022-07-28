@@ -7,10 +7,8 @@ body {
  background-image: url(../Asstes/background.jpg);
  background-repeat: no-repeat;
  background-size: 100%;
-
+ width: 100%;
 }
-
-/* DivTable.com */
 .divTable {
   display: flex;
   max-width: 50%;
@@ -24,7 +22,6 @@ body {
   display: table-row;
   
 }
-
 .divTableCell,
 .divTableHead {
   border: 1px solid #999999;
@@ -47,7 +44,6 @@ body {
 .divTableCell:nth-child(odd) {
   background-color: rgba(255, 0, 0, .4);
 }
-
 .container {
   display: flex;
   opacity: 0.9;

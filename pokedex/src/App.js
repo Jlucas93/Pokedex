@@ -1,4 +1,4 @@
-import React, {useCallback, useRef, useState} from 'react';
+import React, { useCallback, useRef, useState } from 'react';
 import axios from 'axios'
 import './Styles/styles.css'
 function App() {
